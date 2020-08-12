@@ -9,9 +9,15 @@ Set calibration flags
 Run Calibration.
 
 # Build 
+
 git clone https://github.com/deepak-1530/Photogrammetry
+
 cd Photogrammetry
+
 mkdir build
+
 cd build
+
 cmake ..
+
 make -j$(nproc)
