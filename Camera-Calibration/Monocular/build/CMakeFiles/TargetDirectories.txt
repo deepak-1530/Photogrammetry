@@ -1,3 +1,0 @@
-/home/deepak/Photogrammetry/Camera-Calibration/Monocular/build/CMakeFiles/rebuild_cache.dir
-/home/deepak/Photogrammetry/Camera-Calibration/Monocular/build/CMakeFiles/Camera_Calibration.dir
-/home/deepak/Photogrammetry/Camera-Calibration/Monocular/build/CMakeFiles/edit_cache.dir
